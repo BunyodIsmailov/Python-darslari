@@ -1,5 +1,5 @@
 **Python o'zgaruvchisi nima?** 
-	Keling, o'zgaruvchi nima ekanligini rasmiyroq aniqlashdan boshlaylik:
+  - Keling, o'zgaruvchi nima ekanligini rasmiyroq aniqlashdan boshlaylik:
 
 
 **O'zgaruvchan**
@@ -15,6 +15,10 @@
 
 ![ПУСК+R](images/1.png)
 
+
+Biz REPLda chaqirilgan Python o'zgaruvchisini (rasmiy ravishda o'zgaruvchini e'lon qilish deb ataladi) natija yaratamiz. Ammo buni qilishdan oldin, biz Python qanday natija ekanligini bilishini tekshirib ko'ramiz:
+
+![natija](images/2.png)
 
 
 
